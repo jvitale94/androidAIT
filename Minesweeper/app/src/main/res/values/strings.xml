@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+
+    <string name="hello_world">Welcome to Minesweeper</string>
+    <string name="action_settings">Settings</string>
+    <string name="startbtn">Start</string>
+    <string name="helpbtn">Help</string>
+    <string name="aboutbtn">About</string>
+    <string name="helpmsg">Press start to play the game</string>
+    <string name="aboutmsg">This game was made by Jake Vitale bitches!</string>
+    <string name="title_activity_minesweeper_game">MinesweeperGame</string>
+</resources>
